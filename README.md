@@ -1,2 +1,2 @@
 # loopin
-Just a quick way to go over all elements you select.
+Just a quick way to go over a set of elements.
